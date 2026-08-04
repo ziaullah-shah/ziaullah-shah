@@ -1,8 +1,6 @@
 <div align="center">
 
-# ZiaUllah Shah
-
-### Data Science & Full Stack AI Learner
+<img src="./assets/header.svg" width="100%"/>
 
 <br/>
 
